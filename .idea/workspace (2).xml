@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d48f538e-bbce-458c-ae93-3826e2263488" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="demo" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQUpaqpcCqDtnTM8YBEk7XQ0WW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.6045977" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="systemBootRun" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d48f538e-bbce-458c-ae93-3826e2263488" name="Default Changelist" comment="" />
+      <created>1579081495970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579081495970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579083474185">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2334" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579083474185" />
+    <state x="2728" y="470" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579081581942">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2728" y="470" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579081581942" />
+    <state width="1493" height="35" key="GridCell.Tab.0.bottom" timestamp="1579086646683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="35" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1579086646683" />
+    <state width="1877" height="370" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579085016429" />
+    <state width="1493" height="35" key="GridCell.Tab.0.center" timestamp="1579086646683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="35" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1579086646683" />
+    <state width="1877" height="370" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579085016429" />
+    <state width="1493" height="35" key="GridCell.Tab.0.left" timestamp="1579086646682">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="35" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1579086646682" />
+    <state width="1877" height="370" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579085016429" />
+    <state width="1493" height="35" key="GridCell.Tab.0.right" timestamp="1579086646683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="35" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1579086646683" />
+    <state width="1877" height="370" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579085016429" />
+    <state x="2360" y="155" key="SettingsEditor" timestamp="1579083892515">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2360" y="155" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579083892515" />
+    <state x="2536" y="270" key="run.anything.popup" timestamp="1579083916323">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2536" y="270" key="run.anything.popup/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579083916323" />
+  </component>
+</project>

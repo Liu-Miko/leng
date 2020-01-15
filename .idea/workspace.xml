@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b575b6bc-395e-42a0-a954-9bee91a0c2e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1WC5WW0eahf4QuTPwUgUZmJypET" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.6045977" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.SystemRun">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApplication" />
+      <module name="SSCM.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSCM" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SystemRun" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--stacktrace" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApplication" />
+      <item itemvalue="Gradle.SystemRun" />
+      <item itemvalue="Gradle.SSCM" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SSCM" />
+        <item itemvalue="Application.MainApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b575b6bc-395e-42a0-a954-9bee91a0c2e3" name="Default Changelist" comment="" />
+      <created>1578640767945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578640767945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2371" y="101" key="#Project_Structure" timestamp="1578647647529">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578641514265" />
+    <state x="2371" y="101" key="#Project_Structure/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1578647647529" />
+    <state x="2317" y="251" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578645825132">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578641275272" />
+    <state x="2317" y="251" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1578645825132" />
+    <state x="2611" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578881868527">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2611" y="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1578881868527" />
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578913565728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="273" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578913565728" />
+    <state x="2410" y="236" key="DBNavigator.ProjectSettingsDialog" timestamp="1579054492042">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2410" y="236" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579054492042" />
+    <state x="2606" y="237" key="FileChooserDialogImpl" timestamp="1579076846013">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578640823487" />
+    <state x="2606" y="237" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579076846013" />
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom" timestamp="1579073392353">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578977605804" />
+    <state width="1877" height="387" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579073392353" />
+    <state width="1877" height="387" key="GridCell.Tab.0.center" timestamp="1579073392353">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578977605803" />
+    <state width="1877" height="387" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579073392353" />
+    <state width="1877" height="387" key="GridCell.Tab.0.left" timestamp="1579073392353">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578977605803" />
+    <state width="1877" height="387" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579073392353" />
+    <state width="1877" height="387" key="GridCell.Tab.0.right" timestamp="1579073392353">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1493" height="166" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578977605803" />
+    <state width="1877" height="387" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579073392353" />
+    <state x="2646" y="292" key="RollbackChangesDialog" timestamp="1578885396193">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2646" y="292" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1578885396193" />
+    <state x="2254" y="311" key="SettingsEditor" timestamp="1579052484556">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@0.0.1536.824" timestamp="1578968554226" />
+    <state x="2254" y="311" key="SettingsEditor/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579052484556" />
+    <state x="2262" y="193" key="new project wizard" timestamp="1579081023863">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2262" y="193" key="new project wizard/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579081023863" />
+    <state x="2536" y="270" key="run.anything.popup" timestamp="1578893928268">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2536" y="270" key="run.anything.popup/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1578893928268" />
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1579076897249">
+      <screen x="1920" y="0" width="1920" height="1160" />
+    </state>
+    <state x="2543" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1579076897249" />
+  </component>
+</project>
