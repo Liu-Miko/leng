@@ -24,13 +24,23 @@ public class Student implements Serializable {
     @Column(name = "student_age",nullable = false)
     private Integer studentAge;
 
-    @Column(name = "college",length = 30,nullable = false)
+    @Column(name = "college_name",nullable = false)
     private String college;
 
-    @Column(name = "major",length = 10,nullable = false)
+    @Column(name = "major_name",nullable = false)
     private String major;
 
-    @Column(name = "classes",length = 20,nullable = false)
+    @Column(name = "class_id",nullable = false)
     private String classIn;
+
+    public Student(final String studentId,final String studentName,final Sex studentSex,final Integer studentAge,String college,String major,String classIn) {
+        this.studentId = studentId;
+        this.studentName = studentName;
+        this.studentSex = studentSex;
+        this.studentAge = studentAge;
+        this.college = college;
+        this.major = major;
+        this.classIn = classIn;
+    }
 
 }
