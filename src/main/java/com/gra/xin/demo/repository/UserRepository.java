@@ -11,9 +11,6 @@ public class UserRepository {
     private JdbcTemplate jdbcTemplate;
 
     public void save(User user) {
-        jdbcTemplate.update("insert into user_login(user_id) values(?)",user.getUserId());
-        if(user.getUserPsw()!=null) {
-            jdbcTemplate.update("insert into user_login(user_psd) values(?)",user.getUserPsw());
-        }
+        jdbcTemplate.update("insert into user_login(user_id,user_psw) values(?,?)",user.getUserId(),user.getUserPsw());
     }
 }
