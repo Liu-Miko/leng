@@ -1,16 +1,12 @@
 package com.gra.xin.demo.repository;
 
 import com.gra.xin.demo.model.User;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
 
-@Repository
-public class UserRepository {
-    @Autowired
-    private JdbcTemplate jdbcTemplate;
+@Transactional
+public interface UserRepository extends JpaRepository<User, Integer> {
 
-    public void save(User user) {
-        jdbcTemplate.update("insert into user_login(user_id,user_psw) values(?,?)",user.getUserId(),user.getUserPsw());
-    }
+    User findByUserId(final Integer userId);
 }
