@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en-US">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <title>学生选课管理系统</title>
@@ -102,6 +102,43 @@ p {
     color: #B9CAFF;
 }
 
+table {
+
+     border-collapse: collapse;
+
+     font-family: Futura, Arial, sans-serif;
+	margin: auto
+}
+
+caption {
+
+     font-size: larger;
+
+     margin: 1em auto;
+
+}
+
+th,td {
+
+     padding: .65em;
+
+}
+
+th {
+
+     background: #555 nonerepeat scroll 0 0;
+
+   border: 1px solid #777;
+
+   color: #fff;
+
+}
+
+td {
+
+     border: 1px solid#777;
+
+}
 
 </style>
 </head>
@@ -112,10 +149,36 @@ p {
     </div>
     <div id="main-wrap">
         <section id="main-content">
-            <h1>个人信息</h1>
-            <p><strong>强调内容</strong></p>
-            <p>3543gfgtr</p>
-            <p>描述文本</p>
+            <table th:action="@{/student/personalInfo}" method="get">
+                <caption>American Film Institute’s Top Five Films</caption>
+                <tbody>
+                <tr>
+                    <td>姓名
+                    <td th:text="${name}"></td>
+                    <td>学号
+                    <td th:text="${studentId}"></td>
+                <tr>
+                    <td>性别
+                    <td th:text="${sex}"></td>
+                    <td>年龄
+                    <td th:text="${age}"></td>
+                <tr>
+                    <td>学校
+                    <td>四川师范大学
+                    <td>学院
+                    <td th:text="${college}"></td>
+                <tr>
+                    <td>专业
+                    <td th:text="${major}"></td>
+                    <td>层次
+                    <td>本科
+                <tr>
+                    <td>学制
+                    <td>四年
+                    <td>入学时间
+                    <td>2016年9月
+                </tbody>
+            </table>
         </section>
         <nav id="main-nav">
             <h2>选课信息导航栏</h2>

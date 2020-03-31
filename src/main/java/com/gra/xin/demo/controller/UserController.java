@@ -1,5 +1,6 @@
 package com.gra.xin.demo.controller;
 
+import com.gra.xin.demo.dto.FeildsDto;
 import com.gra.xin.demo.model.User;
 import com.gra.xin.demo.repository.UserRepository;
 import com.gra.xin.demo.service.UserService;
@@ -12,9 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import javax.servlet.http.HttpSession;
 import java.io.IOException;
-import java.util.Map;
 
 @Controller
 public class UserController {
@@ -65,13 +64,20 @@ public class UserController {
     }
 
     @RequestMapping(value="/login/validation",method=RequestMethod.GET)
-    public String validPsw(Model mv, @RequestParam("username")String id, @RequestParam("password")String psd, HttpServletRequest request, HttpServletResponse response) throws IOException {
+    public String validPsw(Model mv, @RequestParam("username")String id, @RequestParam("password")String psd) {
         Integer userId = Integer.parseInt(id);
         boolean validResult= userService.validPsw(userId,psd);
-        if(validResult == true) {
+        if(validResult == true && userId < 1000000 && userId > 99999) {
+            FeildsDto.identity = "teacher";
+            FeildsDto.userID = userId ;
+            return "/teacherScm";
+        }
+        else if(validResult == true){
+            FeildsDto.identity = "student";
+            FeildsDto.userID = userId ;
             return "/studentScm";
         }
-        else {;
+        else {
             mv.addAttribute("msg","用户名或密码错误");
             return "login";
         }
